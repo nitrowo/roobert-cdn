@@ -23,7 +23,7 @@
   font-family: 'Roobert';
   font-style: italic;
   font-weight: 200;
-  src: url('../RoobertLightItalic.woff') format('woff');
+  src: url('./RoobertLightItalic.woff') format('woff');
 }
 
 @font-face {
