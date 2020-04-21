@@ -2,42 +2,42 @@
   font-family: 'Roobert';
   font-style: normal;
   font-weight: 400;
-  src: url('./RoobertRegular.woff') format('woff');
+  src: url('https://raw.githubusercontent.com/nitrowo/roobert-cdn/master/RoobertRegular.woff') format('woff');
 }
 
 @font-face {
   font-family: 'Roobert';
   font-style: italic;
   font-weight: 400;
-  src: url('./RoobertRegularItalic.woff') format('woff');
+  src: url('https://raw.githubusercontent.com/nitrowo/roobert-cdn/master/RoobertRegularItalic.woff') format('woff');
 }
 
 @font-face {
   font-family: 'Roobert';
   font-style: normal;
   font-weight: 200;
-  src: url('./RoobertLight.woff') format('woff');
+  src: url('https://raw.githubusercontent.com/nitrowo/roobert-cdn/master/RoobertLight.woff') format('woff');
 }
 
 @font-face {
   font-family: 'Roobert';
   font-style: italic;
   font-weight: 200;
-  src: url('./RoobertLightItalic.woff') format('woff');
+  src: url('https://raw.githubusercontent.com/nitrowo/roobert-cdn/master/RoobertLightItalic.woff') format('woff');
 }
 
 @font-face {
   font-family: 'Roobert';
   font-style: normal;
   font-weight: 500;
-  src: url('./RoobertMedium.woff') format('woff');
+  src: url('https://raw.githubusercontent.com/nitrowo/roobert-cdn/master/RoobertMedium.woff') format('woff');
 }
 
 @font-face {
   font-family: 'Roobert';
   font-style: italic;
   font-weight: 500;
-  src: url('./RoobertMediumItalic.woff') format('woff');
+  src: url('https://raw.githubusercontent.com/nitrowo/roobert-cdn/master/RoobertMediumItalic.woff') format('woff');
 }
 
 
@@ -45,40 +45,40 @@
   font-family: 'Roobert';
   font-style: normal;
   font-weight: 600;
-  src: url('./RoobertSemiBold.woff') format('woff');
+  src: url('https://raw.githubusercontent.com/nitrowo/roobert-cdn/master/RoobertSemiBold.woff') format('woff');
 }
 
 @font-face {
   font-family: 'Roobert';
   font-style: italic;
   font-weight: 600;
-  src: url('./RoobertSemiBoldItalic.woff') format('woff');
+  src: url('https://raw.githubusercontent.com/nitrowo/roobert-cdn/master/RoobertSemiBoldItalic.woff') format('woff');
 }
 
 @font-face {
   font-family: 'Roobert';
   font-style: normal;
   font-weight: 700;
-  src: url('./RoobertBold.woff') format('woff');
+  src: url('https://raw.githubusercontent.com/nitrowo/roobert-cdn/master/RoobertBold.woff') format('woff');
 }
 
 @font-face {
   font-family: 'Roobert';
   font-style: italic;
   font-weight: 700;
-  src: url('./RoobertBoldItalic.woff') format('woff');
+  src: url('https://raw.githubusercontent.com/nitrowo/roobert-cdn/master/RoobertBoldItalic.woff') format('woff');
 }
 
 @font-face {
   font-family: 'Roobert';
   font-style: normal;
   font-weight: 800;
-  src: url('./RoobertHeavy.woff') format('woff');
+  src: url('https://raw.githubusercontent.com/nitrowo/roobert-cdn/master/RoobertHeavy.woff') format('woff');
 }
 
 @font-face {
   font-family: 'Roobert';
   font-style: italic;
   font-weight: 800;
-  src: url('./RoobertHeavyItalic.woff') format('woff');
+  src: url('https://raw.githubusercontent.com/nitrowo/roobert-cdn/master/RoobertHeavyItalic.woff') format('woff');
 }
