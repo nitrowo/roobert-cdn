@@ -2,7 +2,7 @@
   font-family: 'Roobert';
   font-style: normal;
   font-weight: 400;
-  src: url('../../static/fonts/roobert/RoobertRegular.woff') format('woff');
+  src: url('./RoobertRegular.woff') format('woff');
 }
 
 @font-face {
